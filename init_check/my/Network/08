@@ -1,0 +1,2 @@
+Amazon Technologies Inc.
+#whois 52.84.214.175 | grep 'OrgName' | awk -F ':' '{print $2}'
