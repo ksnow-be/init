@@ -1,0 +1,2 @@
+graphic: put login & pass
+ssh: ssh login@ip -p number_of_gate

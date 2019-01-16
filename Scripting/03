@@ -1,0 +1,2 @@
+user=$(w | tail -1 | cut -d ' ' -f1)
+sudo passwd $user
